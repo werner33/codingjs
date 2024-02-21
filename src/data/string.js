@@ -95,7 +95,6 @@ module.exports = [{
     inputs: [
       "('WooHoo')",
       "('HelloThere')",
-      "('abcdefg')",
       "('ab')",
       "('')",
       "('0123456789')",
